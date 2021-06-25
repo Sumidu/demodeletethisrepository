@@ -9,4 +9,6 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+    - icon: fab fa-github
+      href: http://www.github.com/Sumidu/demodeletethisrepository
 output: distill::distill_article
